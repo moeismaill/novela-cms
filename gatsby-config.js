@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://google.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Unlimted Words!`,
+      heading: ``,
       maxWidth: 852,
     },
     social: [

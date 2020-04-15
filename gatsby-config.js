@@ -5,8 +5,8 @@ module.exports = {
     siteUrl: `https://google.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Unlimted Words, a blog that brings you Science and Faith.`,
-      maxWidth: 652,
+      heading: `Welcome to Unlimted Words!`,
+      maxWidth: 852,
     },
     social: [
       {
@@ -36,8 +36,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Unlimited Words`,
+        short_name: `Unlimted Words`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,

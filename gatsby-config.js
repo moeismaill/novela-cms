@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://google.com`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: ``,
+      heading: `Welcome to Unlimited Words, bringing you science and faith`,
       maxWidth: 852,
     },
     social: [
@@ -27,6 +27,7 @@ module.exports = {
         contentAuthors: "content/authors",
         basePath: "/",
         authorsPage: true,
+        allContentfulAuthor: true,
         sources: {
           local: true,
           contentful: true,

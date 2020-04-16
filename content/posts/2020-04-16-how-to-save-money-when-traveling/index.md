@@ -2,7 +2,7 @@
 title: How to Save Money When Traveling
 author: A Voice in the Wilderness
 date: '2020-04-16'
-hero: images/andreas-brucker-g5Uh7nP60FA-unsplash.jpg
+hero: images/matt-jones-9CPAjGVB378-unsplash.jpg
 ---
 <!--StartFragment-->
 
